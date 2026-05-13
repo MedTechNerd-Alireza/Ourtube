@@ -15,7 +15,7 @@
 | Property | Value |
 |----------|-------|
 | **Video Name** | `توضیح-رشته-مهندسی-پزشکی-از-زبان-استاد-دانشگاه-امیر-کبیر` |
-| **Original Link** | [YouTube Video](https://www.youtube.com/watch?v=3VVtyv0mrrM&pp=ygUp2YXZh9mG2K_Ys9uMINm-2LLYtNqp24wg2KfZhduM2LEg2qnYqNuM2LE%3D) |
+| **Original Link** | [YouTube Video](https://www.youtube.com/watch?v=3VVtyv0mrrM&pp=ygUp2YXZh9mG2K_Ys9uMINm-2LLYtNqp24wg2KfZhduM2LEg2qnYqNuM2LE%3D&pp=ygUp2YXZh9mG2K_Ys9uMINm-2LLYtNqp24wg2KfZhduM2LEg2qnYqNuM2LE%3D) |
 | **Total Size** | **1 file** (no split) - **23.12 MB** |
 | **Quality** | **best** |
 | **Status** | **Complete (100%)** |
